@@ -1,3 +1,57 @@
+## Titanic Test
+
+screenshot halaman index ada di page_index.PNG
+<br>
+hasil dari result result ada di page_result.PNG
+<br><br>
+
+framework yang di gunakan LARAVEL
+
+cara install (saya menggunakan laragon)
+1. git clone 
+2. ganti .env.examples menjadi .env 
+3. di folder project run terminal ketik : php artisan key:generate
+4. masih di folder yang sama run terminal ketik : php artisan serve
+5. jalankan http://localhost:8000 pada browser 
+6. selesai
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
